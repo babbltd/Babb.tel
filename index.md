@@ -7,3 +7,4 @@
 #
 layout: home
 ---
+We are changing the way business tools are made, starting with job records.

@@ -1,4 +1,3 @@
-# Helping People Do Business
 The solo operators whose collar would be blue if they ever wore one - need external help in 2 main areas: business administration and ‘learning about business’.
 
 The flow of dollars or yen is the daily constant for the operator, the most pervasive ongoing activity that must ever be 1) managed well and 2) understood better.
